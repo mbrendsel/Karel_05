@@ -1,7 +1,6 @@
 /**
 *
-* Description of the program goes here  // provide a brief description
-*
+* 
 * @Monica
 * @11/25/14
 */
