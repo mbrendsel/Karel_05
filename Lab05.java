@@ -2,8 +2,8 @@
 *
 * Description of the program goes here  // provide a brief description
 *
-* @author <Your Name here>  // replace <...> with your name
-* @version <date/of/completion> // replace <...> with the date
+* @Monica
+* @11/25/14
 */
 
 import edu.fcps.karel2.Display;
